@@ -1,4 +1,4 @@
 # demo
 
 This is my first Git Repository. <br>
-Author - Ayush Sharma
+Author - Ayush Sharma (Plaksha)
